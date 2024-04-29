@@ -6,7 +6,7 @@ Full-Stack developer
 
 I've been working as a software developer for 2 years, coding in .NET. I actively learn and apply various programming languages, including Java, JavaScript, and Python, and I am passionate about exploring new technologies.
 
-* 🌍  I'm based in I am 21 years old and live in Brusque, Santa Catarina, Brazil.
+* 🌍 I am 21 years old and live in Brusque, Santa Catarina, Brazil.
 * ✉️  You can contact me at [joao.souzadev@outlook.com](mailto:joao.souzadev@outlook.com)
 * 🧠  I'm learning Node.js and Express
 

@@ -8,7 +8,7 @@ I've been working as a software developer for 2 years, coding in .NET. I activel
 
 * 🌍 I am 21 years old and live in Brusque, Santa Catarina, Brazil.
 * ✉️  You can contact me at [joao.souzadev@outlook.com](mailto:joao.souzadev@outlook.com)
-* 🧠  I'm learning Node.js and Express
+* 🧠  I'm learning Spring boot
 
 ### Skills
 

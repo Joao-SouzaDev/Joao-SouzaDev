@@ -8,7 +8,8 @@ I've been working as a software developer for 2 years, coding in .NET. I activel
 
 * 🌍 I am 21 years old and live in Brusque, Santa Catarina, Brazil.
 * ✉️  You can contact me at [joao.souzadev@outlook.com](mailto:joao.souzadev@outlook.com)
-* 🧠  I'm learning Microservices with .NET
+* 🧠  I'm learning Vue.js
+* 💻  I'm working on the project https://github.com/Joao-SouzaDev/cookin-up
 
 ### Skills
 

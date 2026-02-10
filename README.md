@@ -4,12 +4,11 @@ Hi 👋 My name is João Souza
 Full-Stack developer
 --------------------
 
-I've been working as a software developer for 2 years, coding in .NET. I actively learn and apply various programming languages, including Java, JavaScript, and Python, and I am passionate about exploring new technologies.
+I've been working as a software developer for 4 years, coding in .NET. I actively learn and apply various programming languages, including Java, JavaScript, and Python, and I am passionate about exploring new technologies.
 
-* 🌍 I am 21 years old and live in Brusque, Santa Catarina, Brazil.
+* 🌍 I am 23 years old and live in Brusque, Santa Catarina, Brazil.
 * ✉️  You can contact me at [joao.souzadev@outlook.com](mailto:joao.souzadev@outlook.com)
-* 🧠  I'm learning Vue.js
-* 💻  I'm working on the project https://github.com/Joao-SouzaDev/cookin-up
+* 🧠  I'm learning Microservice with .NET
 
 ### Skills
 
